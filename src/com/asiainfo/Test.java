@@ -1,3 +1,4 @@
+package com.asiainfo;
 /**
  *  
  * @author:shigm
